@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 /backend/node_modules/
 /backend/.serverless/
+/.idea/sonarlint/issuestore/
